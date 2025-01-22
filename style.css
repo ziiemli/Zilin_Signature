@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+main {
+    display: flex;
+}
+
+#profilePicture {
+    padding-right: 5rem;
+    background-color: white;
+}
+#text {
+    background-color: white;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+    padding-left: 2rem;
+}
+#instagram {
+    margin-top: 1.1rem;
+}
